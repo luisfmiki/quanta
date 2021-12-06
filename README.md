@@ -1,7 +1,9 @@
 # quanta
-Repository to learn OS architecture by development
+Repository to learn OS architecture by development.
 
-ISAs like x86_64, RISC-V, and ARM will be on different branches.
+Currently working on x86_64 ISA.
+
+Future implementation with RISC-V and ARM.
 
 ## Requisites
 QEMU emulator
